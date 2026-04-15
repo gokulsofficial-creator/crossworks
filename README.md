@@ -21,4 +21,4 @@ This is a Django web application of the company where multiple users can submit 
    python manage.py runserver
 
 ## Author
-Gokul Shanmugam
+Gokul S
